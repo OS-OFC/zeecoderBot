@@ -7,9 +7,9 @@ import * as cheerio from 'cheerio';
 dotenv.config();
 const app = express();
 
-const PageID = '61563851425741';
+const PageID = '390531337474225';
 const accessToken = 'EAAQZAreYDFncBO3BtHp0wt08vAtvlJ731nzlg2fZAyfk4LIZAV2jl8jGHj76CUXZBYaHjXH7KWj0DhPnO2Sgk9q2p4QbZBmD9FqlOLD9d3Uo7sCGrYO8I0QnZCoZBDbpMq2e5LMFnnj13YBeKnfGdJa5MK6RVJF17J9S0MVi3ZCJoaU4CHKB8vTEJEsZA'
-const appSecret = ''
+const appSecret = 'd411bb5860586361bdb0b0517b975153'
 
 
 /*--------- page database ---------*/
