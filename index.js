@@ -8,7 +8,7 @@ dotenv.config();
 const app = express();
 
 const PageID = '390531337474225';
-const accessToken = 'EAAQZAreYDFncBOy3ZBh0SJ4zGf1sp2MtkPjME8BNCaWmNxoOFZB4pD6eoDwWxfdGBcoahsTCrws8snXgpZANZAUImDAo1ZBCEgfmrGxQPpxBreRyVBcXmggaYQzRIOJIs9PGOoHg8yZB3ZA35YUwxY6USJOGTZBDARs5XvdJwT11AChVsKD52FkjMDW8QVTZCDBoupxwZDZD'
+const accessToken = 'EAAQZAreYDFncBOzBAxtnU6mprz4D68snLDPydv7XLRU7OQSikkE2mSzMtgSwtn7FfFPrXdJ8SGS2ZB6dUfFHEsiWmzq272lne1vInN0UDNOOfV5O0IfaeOT4iRnXqiMNGKOOynC5ZC0rlXU1sdGsHJsOmsueZB7rR1QbykZChA8y9ZBtpGHc9elZCJM'
 const appSecret = 'd411bb5860586361bdb0b0517b975153'
 
 
