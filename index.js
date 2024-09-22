@@ -177,7 +177,7 @@ async function fetchGeneratedCode(msg, lang) {
       };
       const getResponse = await axios.request(getConfig);
       const $ = cheerio.load(getResponse.data);
-      const textareaContent = $('#uiOutputContent').text();
+      const textareaContent = $(/*'#uiOutputContent'*/).text();
       return textareaContent;
     } else {
       throw new Error("حدث خطأ ما");
